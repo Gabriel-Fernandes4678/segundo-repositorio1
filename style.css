@@ -20,10 +20,16 @@ body {
     width: 40%;
 }
 
-
-
-
+.estudante-icone {
+    width: 25px;
+    padding: 4px 8px;
+}
 
 footer {
     background-color: chartreuse;
+}
+
+.rodape {
+    background-color: #000000;
+    text-align: center;
 }
