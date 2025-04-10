@@ -25,12 +25,23 @@ body {
     padding: 4px 8px;
 }
 
+h1, h2, h3 {
+    color: #0b39a5
+    font-weight: 700;
+}
+
+a:hover{
+    color: #dd1b1b
+}
+
+
+
+
 footer {
     background-color: chartreuse;
 }
 
 .rodape {
     background-color: #000000;
-    color: white
     text-align: center;
 }
