@@ -26,7 +26,7 @@ body {
 }
 
 h1, h2, h3 {
-    color: #0b39a5
+    color: #0b39a5;
     font-weight: 700;
 }
 
@@ -43,6 +43,6 @@ footer {
 
 .rodape {
     background-color: #000000;
-    color:#0b39a5
+    color:aliceblue;
     text-align: center;
 }
